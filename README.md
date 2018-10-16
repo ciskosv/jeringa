@@ -1,5 +1,5 @@
 # jeringa
-La Jeringa fué inicialmente creada en el 2011, creada como herramienta didáctica para análisis de sitios con vulnerabilidades de SQL Inyection en bases de datos MySQL.
+La Jeringa es un secillo script escrito en Perl, inicialmente creada en el 2011, creada como herramienta didáctica para análisis de sitios con vulnerabilidades de SQL Inyection en bases de datos MySQL.
 
 Qué hace?
 - Comprueba si existe vulnerabilidad de SQL Injection en bases de datos MySQL, obteniendo hash utilizando el comando gnu md5sum.
@@ -12,12 +12,12 @@ Este script utiliza los comandos "cut" y "md5sum" incluídos en el GNU Coreutils
 GNU Coreutils puede descargarse desde:
 http://www.gnu.org/software/coreutils/coreutils.html
 
-Licencia:
+GNU CoreUtils son distribuidos bajo la siguiente licencia:
 http://www.gnu.org/software/coreutils/manual/html_node/GNU-Free-Documentation-License.html#GNU-Free-Documentation-License
 
 Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with no Invariant Sections, with no Front-Cover Texts, and with no Back-Cover Texts. A copy of the license is included in the section entitled “GNU Free Documentation License”.
 
-Uso:
+Uso de la Jeringa:
 Solo agregar entre comillas la URL que queremos verificar su vulnerabilidad, incluyendo las variables en la url, que es donde se hará en si la prueba de inyección.
 
 -----------------------------------------------------------------------
