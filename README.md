@@ -26,16 +26,15 @@ Obteniendo hashes...
 Hash verdadero: 6f337c327ce461481c36b628613300b2
 Hash falso: 3db42bb78dc0eb0c61468d6e20e1b5cd
 Hashes son diferentes, posible vulnerabilidad de inyeccion
------
+
 Obteniendo version de BD...
 Version 5 de MySQL, excelente obtengamos mas información!
------
+
 Obteniendo longitud del nombre de la BD...1,2,3,4,5,6,7,8,9
 El nombre de la BD tiene 9 caracteres
 
 Obteniendo el nombre de la BD...
 #########
------
 
 Obteniendo cantidad de tablas que tiene la BD...1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
 La BD tiene 28 tablas
@@ -43,7 +42,9 @@ La BD tiene 28 tablas
 
 
 Mayor información sobre SQL Injection:
+
 http://ciskosv.blogspot.com/2009/08/sql-injection-basico-iii.html
+
 http://ciskosv.blogspot.com/2009/08/sql-injection-basico-iiii.html
 
 
