@@ -1,5 +1,5 @@
 # Jeringa
-La Jeringa es un secillo script escrito en Perl, inicialmente creada en el 2011, creada como herramienta didáctica para análisis de sitios con vulnerabilidades de SQL Inyection en bases de datos MySQL.
+La Jeringa es un secillo script escrito en Perl, inicialmente creada en el 2011, como herramienta didáctica para análisis de sitios con vulnerabilidades de SQL Inyection en bases de datos MySQL.
 
 Qué hace?
 - Comprueba si existe vulnerabilidad de SQL Injection en bases de datos MySQL, obteniendo hash utilizando el comando gnu md5sum.
